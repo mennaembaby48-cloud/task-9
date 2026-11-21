@@ -312,7 +312,7 @@ function updateForm() {
     save_update.classList.remove('d-block');
     clearForm();
     closeForm();
-    show('Updated!' ,'Contact has been updated successfuly.')
+    show('Updated! ' ,'Contact has been updated successfuly.')
 
 }
 
